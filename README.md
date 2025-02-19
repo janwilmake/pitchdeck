@@ -34,4 +34,4 @@ Plans:
 
 - Beta march/april, launch june.
 
-![](pitch.drawio.svg)
+![](pitch2.drawio.svg)
